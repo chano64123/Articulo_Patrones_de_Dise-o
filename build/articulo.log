@@ -1,0 +1,997 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.10)  10 OCT 2020 04:42
+entering extended mode
+**c:/Users/Luis/Desktop/hola/articulo.tex
+(c:/Users/Luis/Desktop/hola/articulo.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> ("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("C:\Program Files\MiKTeX\tex/latex/blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ ("C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count175
+\c@Blindtext=\count176
+\c@blind@countparstart=\count177
+\blind@countxx=\count178
+\blindtext@numBlindtext=\count179
+\blind@countyy=\count180
+\c@blindlist=\count181
+\c@blindlistlevel=\count182
+\c@blindlist@level=\count183
+\blind@listitem=\count184
+\c@blind@listcount=\count185
+\c@blind@levelcount=\count186
+\blind@mathformula=\count187
+\blind@Mathformula=\count188
+\c@blind@randomcount=\count189
+\c@blind@randommax=\count190
+\c@blind@pangramcount=\count191
+\c@blind@pangrammax=\count192
+) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+) ("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+pplx on input line 112.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1pplx.fd
+File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
+)) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks16
+\MT@count=\count193
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen137
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count194
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip49
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) ("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+ ("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count195
+\U@D=\dimen138
+\l@babelnohyphens=\language79
+ ("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count196
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+)) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/09/12 v3.5b Customizing captions (AR)
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
+\captionmargin=\dimen147
+\captionmargin@=\dimen148
+\captionwidth=\dimen149
+\caption@tempdima=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count266
+\c@continuedfloat=\count267
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen154
+\lightrulewidth=\dimen155
+\cmidrulewidth=\dimen156
+\belowrulesep=\dimen157
+\belowbottomsep=\dimen158
+\aboverulesep=\dimen159
+\abovetopsep=\dimen160
+\cmidrulesep=\dimen161
+\cmidrulekern=\dimen162
+\defaultaddspace=\dimen163
+\@cmidla=\count268
+\@cmidlb=\count269
+\@aboverulesep=\dimen164
+\@belowrulesep=\dimen165
+\@thisruleclass=\count270
+\@lastruleclass=\count271
+\@thisrulewidth=\dimen166
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/minifp\minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
+\MFP@loopctr=\count272
+)
+\c@DefaultLines=\count273
+\c@DefaultDepth=\count274
+\DefaultFindent=\dimen167
+\DefaultNindent=\dimen168
+\DefaultSlope=\dimen169
+\DiscardVskip=\dimen170
+\L@lbox=\box45
+\L@tbox=\box46
+\c@L@lines=\count275
+\c@L@depth=\count276
+\L@Pindent=\dimen171
+\L@Findent=\dimen172
+\L@Nindent=\dimen173
+\L@lraise=\dimen174
+\L@first=\dimen175
+\L@next=\dimen176
+\L@slope=\dimen177
+\L@height=\dimen178
+\L@novskip=\dimen179
+\L@target@ht=\dimen180
+\L@target@dp=\dimen181
+\L@target@tht=\dimen182
+\LettrineWidth=\dimen183
+\LettrineHeight=\dimen184
+\LettrineDepth=\dimen185
+\Llist@everypar=\toks18
+
+Loading lettrine.cfg
+(C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.cfg)) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen186
+\enit@toks=\toks19
+\enit@inbox=\box47
+\enit@count@id=\count277
+\enitdp@description=\count278
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/abstract\abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip51
+\absleftindent=\skip52
+\absrightindent=\skip53
+\absparindent=\skip54
+\absparsep=\skip55
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box48
+\beforetitleunit=\skip56
+\aftertitleunit=\skip57
+\ttl@plus=\dimen187
+\ttl@minus=\dimen188
+\ttl@toksa=\toks20
+\titlewidth=\dimen189
+\titlewidthlast=\dimen190
+\titlewidthfirst=\dimen191
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip67
+\thanksmargin=\skip68
+\droptitle=\skip69
+) ("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) ("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen192
+\Hy@linkcounter=\count279
+\Hy@pagecounter=\count280
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count281
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count282
+ ("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen193
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count283
+\Field@Width=\dimen194
+\Fld@charsize=\dimen195
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/atbegshi\atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count284
+\c@Item=\count285
+\c@Hfootnote=\count286
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/atveryend\atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count287
+\c@bookmark@seq@number=\count288
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip70
+) ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count289
+\l__pdf_internal_box=\box49
+) (c:/Users\Luis\Desktop\hola\build\articulo.aux)
+\openout1 = `articulo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen196
+\scratchbox=\box50
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen197
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks22
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+\big@size=\dimen198
+LaTeX Info: Redefining \microtypecontext on input line 76.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 76.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* modes: twoside 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(91.04881pt, 608.5238pt, 95.39737pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=608.5238pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-18.22118pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=48.0pt
+* \marginparsep=10.0pt
+* \columnsep=20.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box51
+Package hyperref Info: Link coloring OFF on input line 76.
+("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count296
+)
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
+\@outlinefile=\write3
+\openout3 = `articulo.out'.
+
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 80.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 80.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 80.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 80.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 80.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+
+ []
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package lettrine.sty Info: Targeted height = 30.07506pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 30.07518pt (U);
+(lettrine.sty)             reported on input line 87.
+
+Underfull \vbox (badness 3668) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/Users/Luis/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 102.
+ (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1pplx.fd
+File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
+) [2]
+Underfull \hbox (badness 1895) in paragraph at lines 117--120
+\T1/pplx/m/n/10 (+20) trones de dis-eño que se ocu-pan de
+ []
+
+<./img/imagen1.png, id=22, 300.3722pt x 123.46124pt>
+File: ./img/imagen1.png Graphic file (type png)
+<use ./img/imagen1.png>
+Package pdftex.def Info: ./img/imagen1.png  used on input line 136.
+(pdftex.def)             Requested size: 142.26378pt x 58.47514pt.
+c:/Users/Luis/Desktop/hola/articulo.tex:142: You can't use `macro parameter character #' in horizontal mode.
+l.142 ... es una operaciÃ³n de clase (static en C#
+                                                   y shared en VB .NET). 	
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 142--143
+[]\T1/pplx/m/n/10 (+20) Define una op-eración In-
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 143--144
+[]\T1/pplx/m/n/10 (+20) Puede ser re-spon-s-able de
+ []
+
+[3 <./img/imagen1.png>]
+<./img/imagen2.png, id=28, 426.84468pt x 173.14688pt>
+File: ./img/imagen2.png Graphic file (type png)
+<use ./img/imagen2.png>
+Package pdftex.def Info: ./img/imagen2.png  used on input line 164.
+(pdftex.def)             Requested size: 142.26378pt x 57.7093pt.
+
+
+c:/Users/Luis/Desktop/hola/articulo.tex:167: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167     L
+           os componentes que conforman el patrÃ³n son los siguientes:
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 169--170
+[]\T1/pplx/b/n/10 Client: \T1/pplx/m/n/10 (+20) Com-po-nente que de-sea
+ []
+
+<./img/imagen3.png, id=30, 426.84468pt x 252.945pt>
+File: ./img/imagen3.png Graphic file (type png)
+<use ./img/imagen3.png>
+Package pdftex.def Info: ./img/imagen3.png  used on input line 174.
+(pdftex.def)             Requested size: 142.26378pt x 84.30579pt.
+
+c:/Users/Luis/Desktop/hola/articulo.tex:177: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177     \item
+                \textbf{EJEMPLO DE IMPLEMENTACIÃ“N}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./img/imagen4.png, id=31, 201.75375pt x 208.52907pt>
+File: ./img/imagen4.png Graphic file (type png)
+<use ./img/imagen4.png>
+Package pdftex.def Info: ./img/imagen4.png  used on input line 179.
+(pdftex.def)             Requested size: 142.26378pt x 147.04164pt.
+
+LaTeX Warning: Citation `Tanembaum2' on page 4 undefined on input line 184.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--186
+
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 182--186
+\T1/pplx/m/n/10 (+20) Son pa-trones de dis-eño que se ocu-
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 182--186
+\T1/pplx/m/n/10 (+20) ob-je-tos, tratando de crear ob-je-tos de
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 182--186
+\T1/pplx/m/n/10 (+20) básica de creación de ob-je-tos po-dría
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 182--186
+\T1/pplx/m/n/10 (+20) de dis-eño crea-cionales re-suel-ven este
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 191--192
+\T1/pplx/m/n/10 (+20) de los sub-sis-temas del soft-ware.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--195
+
+ []
+
+[4 <./img/imagen2.png> <./img/imagen3.png> <./img/imagen4.png>]
+<./img/Imagen5.png, id=39, 319.1925pt x 285.31593pt>
+File: ./img/Imagen5.png Graphic file (type png)
+<use ./img/Imagen5.png>
+Package pdftex.def Info: ./img/Imagen5.png  used on input line 205.
+(pdftex.def)             Requested size: 142.26378pt x 127.16327pt.
+
+
+c:/Users/Luis/Desktop/hola/articulo.tex:208: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 216--217
+\T1/pplx/m/n/10 (+20) je-tos in-di-vid-uales de forma
+ []
+
+<./img/imagen6.png, id=40, 426.84468pt x 247.67531pt>
+File: ./img/imagen6.png Graphic file (type png)
+<use ./img/imagen6.png>
+Package pdftex.def Info: ./img/imagen6.png  used on input line 223.
+(pdftex.def)             Requested size: 142.26378pt x 82.54941pt.
+<./img/Imagen7.png, id=41, 618.05907pt x 193.47281pt>
+File: ./img/Imagen7.png Graphic file (type png)
+<use ./img/Imagen7.png>
+Package pdftex.def Info: ./img/Imagen7.png  used on input line 240.
+(pdftex.def)             Requested size: 142.26378pt x 44.53323pt.
+
+c:/Users/Luis/Desktop/hola/articulo.tex:243: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+[]\T1/pplx/b/n/10 EJEMPLO DE IM-PLE-MENTA-
+ []
+
+<./img/Imagen8.png, id=42, 718.93594pt x 508.90125pt>
+File: ./img/Imagen8.png Graphic file (type png)
+<use ./img/Imagen8.png>
+Package pdftex.def Info: ./img/Imagen8.png  used on input line 248.
+(pdftex.def)             Requested size: 142.26378pt x 100.69908pt.
+[5 <./img/Imagen5.png> <./img/imagen6.png> <./img/Imagen7.png>]
+
+c:/Users/Luis/Desktop/hola/articulo.tex:251: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--259
+
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 255--259
+\T1/pplx/m/n/10 (+20) Los pa-trones de Dis-eño de Com-por-
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 255--259
+\T1/pplx/m/n/10 (+20) Es-tos pa-trones de dis-eño dis-tribuyen,
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 255--259
+\T1/pplx/m/n/10 (+20) en-tre ob-je-tos para cumplir con una
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 271--274
+[]\T1/pplx/b/n/10 Observer: \T1/pplx/m/n/10 (+20) el pa-trón de dis-eño
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--274
+
+ []
+
+[6 <./img/Imagen8.png>]
+<./img/Imagen9.png, id=54, 343.2825pt x 213.04594pt>
+File: ./img/Imagen9.png Graphic file (type png)
+<use ./img/Imagen9.png>
+Package pdftex.def Info: ./img/Imagen9.png  used on input line 287.
+(pdftex.def)             Requested size: 142.26378pt x 88.28888pt.
+
+
+c:/Users/Luis/Desktop/hola/articulo.tex:290: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 		\item
+              \textbf{MOTIVACIÃ“N  :} El patrÃ³n surge del deseo de acceder ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/Luis/Desktop/hola/articulo.tex:304: Package inputenc Error: Unicode character ïƒ¼ (U+F0FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.304 ...iar la instancia de Iterator concreta ïƒ¼
+                                                   Nuevos recorridos mediant...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<./img/Imagen10.png, id=55, 493.0922pt x 267.24844pt>
+File: ./img/Imagen10.png Graphic file (type png)
+<use ./img/Imagen10.png>
+Package pdftex.def Info: ./img/Imagen10.png  used on input line 319.
+(pdftex.def)             Requested size: 142.26378pt x 77.1045pt.
+
+c:/Users/Luis/Desktop/hola/articulo.tex:322: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322         L
+               os elementos del patrÃ³n Iterator se describen a continuaciÃ³n:
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 329--330
+\T1/pplx/m/n/10 (+20) de un it-er-ador con-creto, el cual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
+[]\T1/pplx/b/n/10 DIAGRAMA DE AR-QUI-TEC-
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 334--336
+\T1/pplx/m/n/10 (+20) una apli-cación que nos per-mita
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
+\T1/pplx/m/n/10 (+20) recor-rer una es-truc-tura or-ga-ni-
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 334--336
+\T1/pplx/m/n/10 (+20) za-cional jerárquica, me-di-ante la
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 334--336
+\T1/pplx/m/n/10 (+20) cual nos per-mi-tirá recor-rer todo
+ []
+
+[7 <./img/Imagen9.png> <./img/Imagen10.png>]
+<./img/Imagen11.png, id=61, 501.37312pt x 219.82124pt>
+File: ./img/Imagen11.png Graphic file (type png)
+<use ./img/Imagen11.png>
+Package pdftex.def Info: ./img/Imagen11.png  used on input line 337.
+(pdftex.def)             Requested size: 142.26378pt x 62.37465pt.
+
+
+c:/Users/Luis/Desktop/hola/articulo.tex:340: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.340 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./img/imagen12.png, id=62, 280.79906pt x 424.58624pt>
+File: ./img/imagen12.png Graphic file (type png)
+<use ./img/imagen12.png>
+Package pdftex.def Info: ./img/imagen12.png  used on input line 345.
+(pdftex.def)             Requested size: 142.26378pt x 215.11081pt.
+
+c:/Users/Luis/Desktop/hola/articulo.tex:355: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 \end{itemize}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Luis/Desktop/hola/articulo.tex:363: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.363 \end{itemize}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 360--363
+\T1/pplx/m/n/10 (+20) Al de-sar-rol-lar apli-ca-ciones ro-bus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+[]\T1/pplx/m/n/10 (+20) Appleton, Brad. Pat-terns
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+\T1/pplx/m/n/10 (+20) and Soft-ware: Es-sen-tial Con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+\T1/pplx/m/n/10 (+20) cepts and Ter-mi-nol-ogy.
+ []
+
+[8 <./img/Imagen11.png> <./img/imagen12.png>]
+Overfull \hbox (4.77063pt too wide) in paragraph at lines 376--377
+\T1/pplx/m/n/10 (-20) design_pattern/singleton_pattern.htm 
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 377--378
+[]\T1/pplx/m/n/10 (+20) Ortega Ma-teo, Eze-quiel. (2020).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\T1/pplx/m/n/10 (+20) Pa-trón es-truc-tural - DEC-O-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\T1/pplx/m/n/10 (+20) RA-TOR. Viernes, 24 Abril,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\T1/pplx/m/n/10 (+20) de SO-MO-SPNT Sitio web:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+\T1/pplx/m/n/10 (+20) https://somospnt.com/blog/160-
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 378--379
+\T1/pplx/m/n/10 (+20) eño Dec-o-ra-tor en Java. Mayo
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 378--379
+\T1/pplx/m/n/10 (+20) 10 , de Ex-perto.dev Sitio web:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+\T1/pplx/m/n/10 (+20) https://experto.dev/patron-de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+[]\T1/pplx/m/n/10 (+20) RUBENFA. (2014). Pa-trones
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 379--380
+\T1/pplx/m/n/10 (+20) de dis-eño: Dec-o-ra-tor. 30 Oc-
+ []
+
+
+Overfull \hbox (4.10661pt too wide) in paragraph at lines 379--380
+\T1/pplx/m/n/10 (-20) https://www.genbeta.com/desarrollo 
+ []
+
+No file articulo.bbl.
+
+c:/Users/Luis/Desktop/hola/articulo.tex:386: LaTeX Error: \begin{itemize} on input line 115 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.386 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
+[9
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
+ (c:/Users\Luis\Desktop\hola\build\articulo.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
+
+
+Package rerunfilecheck Warning: File `articulo.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `articulo.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  9ED9DE08F7C849C1B0D03879AB968EB3;407.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 386.
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 115 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 11204 strings out of 480790
+ 176570 string characters out of 2907057
+ 495330 words of memory out of 3000000
+ 26723 multiletter control sequences out of 15000+200000
+ 588700 words of font info for 264 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,13n,45p,689b,641s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Luis/AppData/Roaming/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on c:/Users\Luis\Desktop\hola\build\articulo.pdf (9 pages, 624820 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 47165 words of extra memory for PDF output out of 51595 (max. 10000000)
+
