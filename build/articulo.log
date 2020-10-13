@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.10)  10 OCT 2020 04:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  13 OCT 2020 01:28
 entering extended mode
-**c:/Users/Luis/Desktop/hola/articulo.tex
-(c:/Users/Luis/Desktop/hola/articulo.tex
+**c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex
+(c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-18> ("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -60,15 +60,15 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\mathpazo.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/psnfss\mathpazo.sty
 Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 ) ("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+pplx on input line 112.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1pplx.fd
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
-)) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+)) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
 \MT@toks=\toks16
 \MT@count=\count193
@@ -76,14 +76,14 @@ LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen137
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
 \MT@listname@count=\count194
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
 \MT@outer@space=\skip49
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
 )) ("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
 Package: babel 2020/06/10 3.45 The Babel package
@@ -110,7 +110,7 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 108.
-)) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+)) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  ("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -129,9 +129,9 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks17
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2020/09/12 v3.5b Customizing captions (AR)
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
 \captionmargin=\dimen147
 \captionmargin@=\dimen148
@@ -144,7 +144,7 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count266
 \c@continuedfloat=\count267
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen154
 \lightrulewidth=\dimen155
@@ -163,9 +163,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count270
 \@lastruleclass=\count271
 \@thisrulewidth=\dimen166
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.sty
 File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/minifp\minifp.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/minifp\minifp.sty
 Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
 \MFP@loopctr=\count272
 )
@@ -197,7 +197,7 @@ Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-
 \Llist@everypar=\toks18
 
 Loading lettrine.cfg
-(C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.cfg)) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+(C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/lettrine\lettrine.cfg)) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip50
 \enit@outerparindent=\dimen186
@@ -205,14 +205,14 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box47
 \enit@count@id=\count277
 \enitdp@description=\count278
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/abstract\abstract.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/abstract\abstract.sty
 Package: abstract 2009/06/08 v1.2a configurable abstracts
 \abstitleskip=\skip51
 \absleftindent=\skip52
 \absrightindent=\skip53
 \absparindent=\skip54
 \absparsep=\skip55
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box48
 \beforetitleunit=\skip56
@@ -223,7 +223,7 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidth=\dimen189
 \titlewidthlast=\dimen190
 \titlewidthfirst=\dimen191
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip58
 \f@nch@O@elh=\skip59
@@ -234,36 +234,36 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@erf=\skip64
 \f@nch@O@olf=\skip65
 \f@nch@O@orf=\skip66
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/titling\titling.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/titling\titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip67
 \thanksmargin=\skip68
 \droptitle=\skip69
 ) ("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) ("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 \@linkdim=\dimen192
@@ -273,9 +273,9 @@ Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count281
@@ -293,9 +293,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen193
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count283
@@ -310,7 +310,7 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6372.
 Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/atbegshi\atbegshi.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/atbegshi\atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 \Hy@abspage=\count284
@@ -320,15 +320,15 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 Package hyperref Info: Driver (autodetected): hpdftex.
  ("C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def"
 File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/atveryend\atveryend.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/atveryend\atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
 \Fld@listcount=\count287
 \c@bookmark@seq@number=\count288
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
@@ -338,25 +338,25 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count289
 \l__pdf_internal_box=\box49
-) (c:/Users\Luis\Desktop\hola\build\articulo.aux)
+) (c:/Users\Wizzy\Downloads\Articulo_Patrones_de_Dise-o-master\Articulo_Patrones_de_Dise-o-masterbuild\articulo.aux)
 \openout1 = `articulo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
  ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count290
@@ -375,18 +375,18 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
 \big@size=\dimen198
-LaTeX Info: Redefining \microtypecontext on input line 76.
+LaTeX Info: Redefining \microtypecontext on input line 72.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 76.
+LaTeX Info: Redefining \showhyphens on input line 72.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ppl.cfg
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 *geometry* driver: auto-detecting
@@ -428,40 +428,40 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box51
-Package hyperref Info: Link coloring OFF on input line 76.
+Package hyperref Info: Link coloring OFF on input line 72.
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+) (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count296
 )
-LaTeX Info: Redefining \ref on input line 76.
-LaTeX Info: Redefining \pageref on input line 76.
-LaTeX Info: Redefining \nameref on input line 76.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
 \@outlinefile=\write3
 \openout3 = `articulo.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 80.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1pplx.fd
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 76.
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 80.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlzplm.fd
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 76.
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 80.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\omszplm.fd
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 76.
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 80.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxzplm.fd
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 76.
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 80.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1zplm.fd
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 76.
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -469,12 +469,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
  []
 
@@ -486,479 +486,563 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 Package lettrine.sty Info: Targeted height = 30.07506pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 30.07518pt (U);
-(lettrine.sty)             reported on input line 87.
+(lettrine.sty)             Lettrine height = 30.07518pt (C);
+(lettrine.sty)             reported on input line 83.
 
-Underfull \vbox (badness 3668) has occurred while \output is active []
+Underfull \vbox (badness 5771) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1{C:/Users/Luis/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+ [1{C:/Users/Wizzy/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 102.
- (C:\Users\Luis\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1pplx.fd
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 93.
+ (C:\Users\Wizzy\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [2]
-Underfull \hbox (badness 1895) in paragraph at lines 117--120
-\T1/pplx/m/n/10 (+20) trones de dis-eño que se ocu-pan de
+)
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:101: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101     \item \textbf
+                       {Patrones de diseÃ±o creacionales} \\ \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
  []
 
-<./img/imagen1.png, id=22, 300.3722pt x 123.46124pt>
+
+Underfull \hbox (badness 2173) in paragraph at lines 101--103
+\T1/pplx/m/n/10 (+20) Como su nom-bre in-dica, es-tos pa-trones
+ []
+
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:114: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 	\item \textbf
+                    {PATRON SINGLETON}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./img/imagen1.png, id=16, 493.845pt x 200.24812pt>
 File: ./img/imagen1.png Graphic file (type png)
 <use ./img/imagen1.png>
-Package pdftex.def Info: ./img/imagen1.png  used on input line 136.
-(pdftex.def)             Requested size: 142.26378pt x 58.47514pt.
-c:/Users/Luis/Desktop/hola/articulo.tex:142: You can't use `macro parameter character #' in horizontal mode.
-l.142 ... es una operaciÃ³n de clase (static en C#
-                                                   y shared en VB .NET). 	
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
+Package pdftex.def Info: ./img/imagen1.png  used on input line 122.
+(pdftex.def)             Requested size: 142.26378pt x 57.68547pt.
 
-
-Underfull \hbox (badness 2717) in paragraph at lines 142--143
-[]\T1/pplx/m/n/10 (+20) Define una op-eración In-
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 143--144
-[]\T1/pplx/m/n/10 (+20) Puede ser re-spon-s-able de
- []
-
-[3 <./img/imagen1.png>]
-<./img/imagen2.png, id=28, 426.84468pt x 173.14688pt>
-File: ./img/imagen2.png Graphic file (type png)
-<use ./img/imagen2.png>
-Package pdftex.def Info: ./img/imagen2.png  used on input line 164.
-(pdftex.def)             Requested size: 142.26378pt x 57.7093pt.
-
-
-c:/Users/Luis/Desktop/hola/articulo.tex:167: LaTeX Error: There's no line here to end.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:129: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167     L
-           os componentes que conforman el patrÃ³n son los siguientes:
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.129             \end{itemize}
+                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 169--170
-[]\T1/pplx/b/n/10 Client: \T1/pplx/m/n/10 (+20) Com-po-nente que de-sea
- []
-
-<./img/imagen3.png, id=30, 426.84468pt x 252.945pt>
-File: ./img/imagen3.png Graphic file (type png)
-<use ./img/imagen3.png>
-Package pdftex.def Info: ./img/imagen3.png  used on input line 174.
-(pdftex.def)             Requested size: 142.26378pt x 84.30579pt.
-
-c:/Users/Luis/Desktop/hola/articulo.tex:177: LaTeX Error: There's no line here to end.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:133: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177     \item
+l.133             \end{itemize}
+                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[2 <./img/imagen1.png>]
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:153: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153     \item
                 \textbf{EJEMPLO DE IMPLEMENTACIÃ“N}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<./img/imagen4.png, id=31, 201.75375pt x 208.52907pt>
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:153: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153     \item \textbf
+                       {EJEMPLO DE IMPLEMENTACIÃ“N}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./img/imagen4.png, id=22, 628.59843pt x 511.15968pt>
 File: ./img/imagen4.png Graphic file (type png)
 <use ./img/imagen4.png>
-Package pdftex.def Info: ./img/imagen4.png  used on input line 179.
-(pdftex.def)             Requested size: 142.26378pt x 147.04164pt.
+Package pdftex.def Info: ./img/imagen4.png  used on input line 155.
+(pdftex.def)             Requested size: 142.26378pt x 115.68452pt.
 
-LaTeX Warning: Citation `Tanembaum2' on page 4 undefined on input line 184.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:158: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158     \item \textbf
+                       {CODIGO}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./img/Singleton1.png, id=24, 408.77719pt x 251.43938pt>
+File: ./img/Singleton1.png Graphic file (type png)
+<use ./img/Singleton1.png>
+Package pdftex.def Info: ./img/Singleton1.png  used on input line 160.
+(pdftex.def)             Requested size: 142.26378pt x 87.50633pt.
+<./img/Singleton2.png, id=25, 620.3175pt x 534.49687pt>
+File: ./img/Singleton2.png Graphic file (type png)
+<use ./img/Singleton2.png>
+Package pdftex.def Info: ./img/Singleton2.png  used on input line 163.
+(pdftex.def)             Requested size: 142.26378pt x 122.581pt.
+<./img/Singleton3.png, id=26, 281.55188pt x 178.41656pt>
+File: ./img/Singleton3.png Graphic file (type png)
+<use ./img/Singleton3.png>
+Package pdftex.def Info: ./img/Singleton3.png  used on input line 166.
+(pdftex.def)             Requested size: 142.26378pt x 90.15pt.
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:169: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169     \item \textbf
+                       {Patrones de diseÃ±o estructurales  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--186
+Underfull \hbox (badness 10000) in paragraph at lines 169--173
 
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 182--186
-\T1/pplx/m/n/10 (+20) Son pa-trones de dis-eño que se ocu-
+Underfull \hbox (badness 1661) in paragraph at lines 169--173
+\T1/pplx/m/n/10 (+20) Los pa-trones es-truc-turales nos ayu-dan a
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 182--186
-\T1/pplx/m/n/10 (+20) ob-je-tos, tratando de crear ob-je-tos de
- []
-
-
-Underfull \hbox (badness 1454) in paragraph at lines 182--186
-\T1/pplx/m/n/10 (+20) básica de creación de ob-je-tos po-dría
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 182--186
-\T1/pplx/m/n/10 (+20) de dis-eño crea-cionales re-suel-ven este
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 191--192
-\T1/pplx/m/n/10 (+20) de los sub-sis-temas del soft-ware.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--195
+Underfull \hbox (badness 10000) in paragraph at lines 179--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--195
+Underfull \hbox (badness 10000) in paragraph at lines 179--182
 
  []
 
-[4 <./img/imagen2.png> <./img/imagen3.png> <./img/imagen4.png>]
-<./img/Imagen5.png, id=39, 319.1925pt x 285.31593pt>
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:185: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185     \item \textbf
+                       {PATRON DECORATOR} \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[3 <./img/imagen4.png> <./img/Singleton1.png> <./img/Singleton2.png> <./img/Singleton3.png>]
+<./img/Imagen5.png, id=35, 319.1925pt x 285.31593pt>
 File: ./img/Imagen5.png Graphic file (type png)
 <use ./img/Imagen5.png>
-Package pdftex.def Info: ./img/Imagen5.png  used on input line 205.
+Package pdftex.def Info: ./img/Imagen5.png  used on input line 192.
 (pdftex.def)             Requested size: 142.26378pt x 127.16327pt.
 
 
-c:/Users/Luis/Desktop/hola/articulo.tex:208: LaTeX Error: There's no line here to end.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:195: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.208 
+l.195 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 216--217
-\T1/pplx/m/n/10 (+20) je-tos in-di-vid-uales de forma
+Underfull \hbox (badness 4954) in paragraph at lines 204--205
+[]\T1/pplx/m/n/10 (+20) Responsabilidades de un ob-jeto
  []
 
-<./img/imagen6.png, id=40, 426.84468pt x 247.67531pt>
+
+Underfull \hbox (badness 2635) in paragraph at lines 207--208
+[]\T1/pplx/m/n/10 (+20) Existe la necesi-dad de ex-ten-der
+ []
+
+<./img/imagen6.png, id=36, 426.84468pt x 247.67531pt>
 File: ./img/imagen6.png Graphic file (type png)
 <use ./img/imagen6.png>
-Package pdftex.def Info: ./img/imagen6.png  used on input line 223.
+Package pdftex.def Info: ./img/imagen6.png  used on input line 210.
 (pdftex.def)             Requested size: 142.26378pt x 82.54941pt.
-<./img/Imagen7.png, id=41, 618.05907pt x 193.47281pt>
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:223: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.223 	\item \textbf
+                    {DIAGRAMA DE ARQUITECTURA :}	\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./img/Imagen7.png, id=37, 618.05907pt x 193.47281pt>
 File: ./img/Imagen7.png Graphic file (type png)
 <use ./img/Imagen7.png>
-Package pdftex.def Info: ./img/Imagen7.png  used on input line 240.
+Package pdftex.def Info: ./img/Imagen7.png  used on input line 227.
 (pdftex.def)             Requested size: 142.26378pt x 44.53323pt.
 
-c:/Users/Luis/Desktop/hola/articulo.tex:243: LaTeX Error: There's no line here to end.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:230: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.243 
+l.230 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
-[]\T1/pplx/b/n/10 EJEMPLO DE IM-PLE-MENTA-
- []
-
-<./img/Imagen8.png, id=42, 718.93594pt x 508.90125pt>
+<./img/Imagen8.png, id=38, 718.93594pt x 508.90125pt>
 File: ./img/Imagen8.png Graphic file (type png)
 <use ./img/Imagen8.png>
-Package pdftex.def Info: ./img/Imagen8.png  used on input line 248.
+Package pdftex.def Info: ./img/Imagen8.png  used on input line 235.
 (pdftex.def)             Requested size: 142.26378pt x 100.69908pt.
-[5 <./img/Imagen5.png> <./img/imagen6.png> <./img/Imagen7.png>]
 
-c:/Users/Luis/Desktop/hola/articulo.tex:251: LaTeX Error: There's no line here to end.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:238: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.251 
+l.238 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--259
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:242: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.242     \item \textbf
+                       {CODIGO}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./img/Decorator1.jpg, id=39, 365.86688pt x 399.74344pt>
+File: ./img/Decorator1.jpg Graphic file (type jpg)
+<use ./img/Decorator1.jpg>
+Package pdftex.def Info: ./img/Decorator1.jpg  used on input line 244.
+(pdftex.def)             Requested size: 142.26378pt x 155.43573pt.
+[4 <./img/Imagen5.png> <./img/imagen6.png> <./img/Imagen7.png> <./img/Imagen8.png>]
+<./img/Decorator2.jpg, id=47, 271.76532pt x 167.87718pt>
+File: ./img/Decorator2.jpg Graphic file (type jpg)
+<use ./img/Decorator2.jpg>
+Package pdftex.def Info: ./img/Decorator2.jpg  used on input line 247.
+(pdftex.def)             Requested size: 142.26378pt x 87.88324pt.
+<./img/Decorator3.jpg, id=48, 324.46219pt x 284.56313pt>
+File: ./img/Decorator3.jpg Graphic file (type jpg)
+<use ./img/Decorator3.jpg>
+Package pdftex.def Info: ./img/Decorator3.jpg  used on input line 250.
+(pdftex.def)             Requested size: 142.26378pt x 124.7696pt.
+
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:254: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254     \item \textbf
+                       {Patrones de DiseÃ±o de Comportamiento }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--257
 
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 255--259
-\T1/pplx/m/n/10 (+20) Los pa-trones de Dis-eño de Com-por-
+Underfull \hbox (badness 2418) in paragraph at lines 254--257
+\T1/pplx/m/n/10 (+20) Los pa-trones com-por-ta-men-tales nos ayu-
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 255--259
-\T1/pplx/m/n/10 (+20) Es-tos pa-trones de dis-eño dis-tribuyen,
+Underfull \hbox (badness 8075) in paragraph at lines 259--260
+[]\T1/pplx/b/n/10 Chain of re-spon-si-bil-ity: \T1/pplx/m/n/10 (+20) Evita el
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 255--259
-\T1/pplx/m/n/10 (+20) en-tre ob-je-tos para cumplir con una
+Underfull \hbox (badness 4726) in paragraph at lines 260--261
+[]\T1/pplx/b/n/10 Command: \T1/pplx/m/n/10 (+20) En-cap-sula una peti-ción
  []
 
 
-Underfull \hbox (badness 2932) in paragraph at lines 271--274
-[]\T1/pplx/b/n/10 Observer: \T1/pplx/m/n/10 (+20) el pa-trón de dis-eño
+Underfull \hbox (badness 8151) in paragraph at lines 260--261
+\T1/pplx/m/n/10 (+20) como un ob-jeto para per-mi-tir su
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--274
+Underfull \hbox (badness 1389) in paragraph at lines 268--269
+[]\T1/pplx/b/n/10 Visitor: \T1/pplx/m/n/10 (+20) Per-mite adi-cionar fun-cional-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--274
+Underfull \hbox (badness 10000) in paragraph at lines 269--272
 
  []
 
-[6 <./img/Imagen8.png>]
-<./img/Imagen9.png, id=54, 343.2825pt x 213.04594pt>
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:276: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.276     \item \textbf
+                       {PATRON ITERATOR} \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5 <./img/Decorator1.jpg> <./img/Decorator2.jpg> <./img/Decorator3.jpg>]
+<./img/Imagen9.png, id=53, 343.2825pt x 213.04594pt>
 File: ./img/Imagen9.png Graphic file (type png)
 <use ./img/Imagen9.png>
-Package pdftex.def Info: ./img/Imagen9.png  used on input line 287.
+Package pdftex.def Info: ./img/Imagen9.png  used on input line 285.
 (pdftex.def)             Requested size: 142.26378pt x 88.28888pt.
 
 
-c:/Users/Luis/Desktop/hola/articulo.tex:290: LaTeX Error: There's no line here to end.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:288: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.290 		\item
-              \textbf{MOTIVACIÃ“N  :} El patrÃ³n surge del deseo de acceder ...
+l.288 		\item
+              \textbf{MOTIVACIÃ“N  :}\\ El patrÃ³n surge del deseo de accede...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-c:/Users/Luis/Desktop/hola/articulo.tex:304: Package inputenc Error: Unicode character ïƒ¼ (U+F0FC)
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:302: Package inputenc Error: Unicode character ïƒ¼ (U+F0FC)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.304 ...iar la instancia de Iterator concreta ïƒ¼
+l.302 ...iar la instancia de Iterator concreta ïƒ¼
                                                    Nuevos recorridos mediant...
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-<./img/Imagen10.png, id=55, 493.0922pt x 267.24844pt>
-File: ./img/Imagen10.png Graphic file (type png)
-<use ./img/Imagen10.png>
-Package pdftex.def Info: ./img/Imagen10.png  used on input line 319.
-(pdftex.def)             Requested size: 142.26378pt x 77.1045pt.
 
-c:/Users/Luis/Desktop/hola/articulo.tex:322: LaTeX Error: There's no line here to end.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:308: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.322         L
+l.308 	\item \textbf
+                    {DIAGRAMA DE CLASES :}	\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 312--313
+[]\T1/pplx/b/n/10 hasNext : \T1/pplx/m/n/10 (+20) Método que re-gresa un
+ []
+
+<./img/Imagen10.png, id=54, 493.0922pt x 267.24844pt>
+File: ./img/Imagen10.png Graphic file (type png)
+<use ./img/Imagen10.png>
+Package pdftex.def Info: ./img/Imagen10.png  used on input line 317.
+(pdftex.def)             Requested size: 142.26378pt x 77.1045pt.
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:320: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320         L
                os elementos del patrÃ³n Iterator se describen a continuaciÃ³n:
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Underfull \hbox (badness 1303) in paragraph at lines 329--330
-\T1/pplx/m/n/10 (+20) de un it-er-ador con-creto, el cual
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--336
-[]\T1/pplx/b/n/10 DIAGRAMA DE AR-QUI-TEC-
- []
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 334--336
-\T1/pplx/m/n/10 (+20) una apli-cación que nos per-mita
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--336
-\T1/pplx/m/n/10 (+20) recor-rer una es-truc-tura or-ga-ni-
- []
-
-
-Underfull \hbox (badness 3919) in paragraph at lines 334--336
-\T1/pplx/m/n/10 (+20) za-cional jerárquica, me-di-ante la
- []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 334--336
-\T1/pplx/m/n/10 (+20) cual nos per-mi-tirá recor-rer todo
- []
-
-[7 <./img/Imagen9.png> <./img/Imagen10.png>]
-<./img/Imagen11.png, id=61, 501.37312pt x 219.82124pt>
+<./img/Imagen11.png, id=55, 501.37312pt x 219.82124pt>
 File: ./img/Imagen11.png Graphic file (type png)
 <use ./img/Imagen11.png>
-Package pdftex.def Info: ./img/Imagen11.png  used on input line 337.
+Package pdftex.def Info: ./img/Imagen11.png  used on input line 335.
 (pdftex.def)             Requested size: 142.26378pt x 62.37465pt.
 
-
-c:/Users/Luis/Desktop/hola/articulo.tex:340: LaTeX Error: There's no line here to end.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:338: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.340 
+l.338 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<./img/imagen12.png, id=62, 280.79906pt x 424.58624pt>
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:341: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.341     \item \textbf
+                       {EJEMPLO DE IMPLEMENTACIÃ“N}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./img/imagen12.png, id=56, 280.79906pt x 424.58624pt>
 File: ./img/imagen12.png Graphic file (type png)
 <use ./img/imagen12.png>
-Package pdftex.def Info: ./img/imagen12.png  used on input line 345.
+Package pdftex.def Info: ./img/imagen12.png  used on input line 343.
 (pdftex.def)             Requested size: 142.26378pt x 215.11081pt.
+[6 <./img/Imagen9.png> <./img/Imagen10.png> <./img/Imagen11.png>]
 
-c:/Users/Luis/Desktop/hola/articulo.tex:355: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.355 \end{itemize}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/Luis/Desktop/hola/articulo.tex:363: LaTeX Error: Something's wrong--perhaps a missing \item.
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:346: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.363 \end{itemize}
+l.346     \item \textbf
+                       {CODIGO}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<./img/Iterator1.png, id=61, 374.14781pt x 325.96782pt>
+File: ./img/Iterator1.png Graphic file (type png)
+<use ./img/Iterator1.png>
+Package pdftex.def Info: ./img/Iterator1.png  used on input line 348.
+(pdftex.def)             Requested size: 142.26378pt x 123.94365pt.
+<./img/Iterator2.png, id=62, 451.6875pt x 593.21625pt>
+File: ./img/Iterator2.png Graphic file (type png)
+<use ./img/Iterator2.png>
+Package pdftex.def Info: ./img/Iterator2.png  used on input line 351.
+(pdftex.def)             Requested size: 142.26378pt x 186.83694pt.
+<./img/Iterator3.png, id=63, 475.7775pt x 461.47406pt>
+File: ./img/Iterator3.png Graphic file (type png)
+<use ./img/Iterator3.png>
+Package pdftex.def Info: ./img/Iterator3.png  used on input line 354.
+(pdftex.def)             Requested size: 142.26378pt x 137.98558pt.
+<./img/Iterator4.png, id=64, 386.94562pt x 537.50812pt>
+File: ./img/Iterator4.png Graphic file (type png)
+<use ./img/Iterator4.png>
+Package pdftex.def Info: ./img/Iterator4.png  used on input line 357.
+(pdftex.def)             Requested size: 142.26378pt x 197.62003pt.
+<./img/Iterator5.png, id=65, 152.06813pt x 136.25906pt>
+File: ./img/Iterator5.png Graphic file (type png)
+<use ./img/Iterator5.png>
+Package pdftex.def Info: ./img/Iterator5.png  used on input line 360.
+(pdftex.def)             Requested size: 142.26378pt x 127.47641pt.
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:368: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.368 \end{itemize}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[7 <./img/imagen12.png> <./img/Iterator1.png> <./img/Iterator2.png> <./img/Iterator3.png> <./img/Iterator4.png> <./img/Iterator5.png>]
+
+c:/Users/Wizzy/Downloads/Articulo_Patrones_de_Dise-o-master/Articulo_Patrones_de_Dise-o-master/articulo.tex:376: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.376 \end{itemize}
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 360--363
-\T1/pplx/m/n/10 (+20) Al de-sar-rol-lar apli-ca-ciones ro-bus-
+Underfull \hbox (badness 1365) in paragraph at lines 384--385
+\T1/pplx/m/n/10 (+20) Oriented Soft-ware. EEUU: Addison-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-[]\T1/pplx/m/n/10 (+20) Appleton, Brad. Pat-terns
+Underfull \hbox (badness 1635) in paragraph at lines 386--387
+\T1/pplx/m/n/10 (+20) Es-sen-tial Con-cepts and Ter-mi-nol-ogy.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-\T1/pplx/m/n/10 (+20) and Soft-ware: Es-sen-tial Con-
+Underfull \hbox (badness 1205) in paragraph at lines 388--389
+[]\T1/pplx/m/n/10 (+20) Gamma, Erich, Helm, Richard, John-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-\T1/pplx/m/n/10 (+20) cepts and Ter-mi-nol-ogy.
- []
-
-[8 <./img/Imagen11.png> <./img/imagen12.png>]
-Overfull \hbox (4.77063pt too wide) in paragraph at lines 376--377
-\T1/pplx/m/n/10 (-20) design_pattern/singleton_pattern.htm 
+Underfull \hbox (badness 1168) in paragraph at lines 388--389
+\T1/pplx/m/n/10 (+20) Oriented Soft-ware. Addison-Wesley,
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 377--378
-[]\T1/pplx/m/n/10 (+20) Ortega Ma-teo, Eze-quiel. (2020).
+Underfull \hbox (badness 2197) in paragraph at lines 390--391
+[]\T1/pplx/m/n/10 (+20) Source Mak-ing. (2015). Sin-gle-ton
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
-\T1/pplx/m/n/10 (+20) Pa-trón es-truc-tural - DEC-O-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
-\T1/pplx/m/n/10 (+20) RA-TOR. Viernes, 24 Abril,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
-\T1/pplx/m/n/10 (+20) de SO-MO-SPNT Sitio web:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
-\T1/pplx/m/n/10 (+20) https://somospnt.com/blog/160-
- []
-
-
-Underfull \hbox (badness 2828) in paragraph at lines 378--379
-\T1/pplx/m/n/10 (+20) eño Dec-o-ra-tor en Java. Mayo
- []
-
-
-Underfull \hbox (badness 3557) in paragraph at lines 378--379
-\T1/pplx/m/n/10 (+20) 10 , de Ex-perto.dev Sitio web:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
-\T1/pplx/m/n/10 (+20) https://experto.dev/patron-de-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
-[]\T1/pplx/m/n/10 (+20) RUBENFA. (2014). Pa-trones
- []
-
-
-Underfull \hbox (badness 2359) in paragraph at lines 379--380
-\T1/pplx/m/n/10 (+20) de dis-eño: Dec-o-ra-tor. 30 Oc-
- []
-
-
-Overfull \hbox (4.10661pt too wide) in paragraph at lines 379--380
-\T1/pplx/m/n/10 (-20) https://www.genbeta.com/desarrollo 
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+\T1/pplx/m/n/10 (+20) De-sign Pat-tern. Re-cu-per-ado de
  []
 
 No file articulo.bbl.
-
-c:/Users/Luis/Desktop/hola/articulo.tex:386: LaTeX Error: \begin{itemize} on input line 115 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.386 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
-[9
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
- (c:/Users\Luis\Desktop\hola\build\articulo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
+[8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
+ (c:/Users\Wizzy\Downloads\Articulo_Patrones_de_Dise-o-master\Articulo_Patrones_de_Dise-o-masterbuild\articulo.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 398.
 
 
 Package rerunfilecheck Warning: File `articulo.out' has changed.
@@ -967,31 +1051,24 @@ Package rerunfilecheck Warning: File `articulo.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `articulo.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9ED9DE08F7C849C1B0D03879AB968EB3;407.
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             After:  2FC8815D0CD0F8FEE4FFFC442EA3738B;322.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 386.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 115 (\begingroup)
-### bottom level 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 398.
+ ) 
 Here is how much of TeX's memory you used:
- 11204 strings out of 480790
- 176570 string characters out of 2907057
- 495330 words of memory out of 3000000
- 26723 multiletter control sequences out of 15000+200000
- 588700 words of font info for 264 fonts, out of 3000000 for 9000
+ 11267 strings out of 480790
+ 178674 string characters out of 2907055
+ 495341 words of memory out of 3000000
+ 26766 multiletter control sequences out of 15000+200000
+ 589356 words of font info for 273 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,13n,45p,689b,641s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Luis/AppData/Roaming/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on c:/Users\Luis\Desktop\hola\build\articulo.pdf (9 pages, 624820 bytes).
+ 39i,13n,45p,1327b,539s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Wizzy/AppData/Roaming/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on c:/Users\Wizzy\Downloads\Articulo_Patrones_de_Dise-o-master\Articulo_Patrones_de_Dise-o-masterbuild\articulo.pdf (8 pages, 781269 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 47165 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 47210 words of extra memory for PDF output out of 51595 (max. 10000000)
 
